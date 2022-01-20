@@ -1,0 +1,28 @@
+{
+  "data":[
+    {
+      "src": "src/vid1.mp4",
+      "tit": "EMERALD",
+      "p1" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus, sunt!",
+      "p2" : "Lorem ipsum dolor sit amet."
+    },
+    {
+      "src": "src/vid2.mp4",
+      "tit": "CLOUDY",
+      "p1" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus, sunt!",
+      "p2" : "Lorem ipsum dolor sit amet."
+    },
+    {
+      "src": "src/vid3.mp4",
+      "tit": "SUNSET",
+      "p1" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus, sunt!",
+      "p2" : "Lorem ipsum dolor sit amet."
+    },
+    {
+      "src": "src/vid4.mp4",
+      "tit": "SUNRISE",
+      "p1" : "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus, sunt!",
+      "p2" : "Lorem ipsum dolor sit amet."
+    }
+  ]
+}
