@@ -7,6 +7,7 @@ class Mask {
   init(opt) {
     this.btns = document.querySelectorAll(opt.btns);
     this.panels = document.querySelectorAll(opt.panels);
+    this.vids = document.querySelectorAll('video')
     this.class_names = opt.class_names;
     this.enableClick = true;
   }
@@ -26,6 +27,8 @@ class Mask {
   }
 
   activation(index) {
+    this.vids[index].load();
+    this.vids[index].play();
     for (let i = 0; i < this.btns.length; i++) {
       this.btns[i].classList.remove(this.class_names.on)
 
